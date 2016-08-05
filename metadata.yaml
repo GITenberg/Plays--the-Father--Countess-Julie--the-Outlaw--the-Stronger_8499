@@ -1,0 +1,44 @@
+_repo: Plays--the-Father--Countess-Julie--the-Outlaw--the-Stronger_8499
+_version: 0.0.1
+contributor:
+  translators:
+  - agent_name: Oland, Warner
+    aliases:
+    - Ölund, Johan Verner
+    - Olund, Johan Verner
+    - Oland, Wärner
+    birthdate: 1880
+    deathdate: 1938
+    gutenberg_agent_id: '4630'
+    url: http://www.gutenberg.org/2009/agents/4630
+  - agent_name: Oland, Edith
+    alias: Oland, Edith Gardner Shearn
+    birthdate: 1878
+    gutenberg_agent_id: '4631'
+    url: http://www.gutenberg.org/2009/agents/4631
+creator:
+  author:
+    agent_name: Strindberg, August
+    alias: Strindberg, Johan August
+    birthdate: 1849
+    deathdate: 1912
+    gutenberg_agent_id: '1609'
+    url: http://www.gutenberg.org/2009/agents/1609
+    wikipedia: http://en.wikipedia.org/wiki/August_Strindberg
+description: The Father -- Countess Julie -- The Outlaw -- The Stronger.
+gutenberg_bookshelf: One Act Plays
+gutenberg_issued: '2005-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8499'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Strindberg, August, 1849-1912 -- Translations into English'
+- !lcc 'PT'
+- !lcsh 'Drama'
+- GITenberg
+title: 'Plays: the Father; Countess Julie; the Outlaw; the Stronger'
+url: http://www.gutenberg.org/ebooks/8499
