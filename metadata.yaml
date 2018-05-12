@@ -1,5 +1,5 @@
 _repo: Plays--the-Father--Countess-Julie--the-Outlaw--the-Stronger_8499
-_version: 0.0.1
+_version: 0.1.0
 contributor:
   translators:
   - agent_name: Oland, Warner
@@ -16,6 +16,9 @@ contributor:
     birthdate: 1878
     gutenberg_agent_id: '4631'
     url: http://www.gutenberg.org/2009/agents/4631
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Strindberg, August
@@ -26,6 +29,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1609
     wikipedia: http://en.wikipedia.org/wiki/August_Strindberg
 description: The Father -- Countess Julie -- The Outlaw -- The Stronger.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/8499#Plays--the-Father--Countess-Julie--the-Outlaw--the-Stronger
 gutenberg_bookshelf: One Act Plays
 gutenberg_issued: '2005-07-01'
 gutenberg_type: Text
